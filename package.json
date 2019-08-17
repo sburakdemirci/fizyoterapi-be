@@ -4,7 +4,6 @@
   "description": "Login page",
   "main": "app.js",
   "scripts": {
-    "start:dev": "nodemon server.js"
     "start:dev": "nodemon server.js",
     "start": "node server.js"
   },
